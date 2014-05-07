@@ -1,0 +1,11 @@
+7195afc887c32881466e57af6b4ed44d *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+342f1ce5c35aeb3cf31f40751e358665 *R/dtrans.R
+f4f8cedfa2020bf348b967e67aba1b87 *R/genmvnorm.R
+01ef3ab6e2a122c3c91d6870bc17a2e6 *R/recalib.R
+4cbd5ff37108a8c4cd99a19946511f89 *R/revcode.R
+67874b9ff91c1fd314102a5dc00cf566 *man/dtrans.Rd
+7ad81a8b5b71270c0033a82d41998a13 *man/gendata-package.Rd
+63f2bee019b17a527c52d9a5d84d6862 *man/genmvnorm.Rd
+0e7981599f1f44e390fb28f645fde363 *man/recalib.Rd
+72fe602011db9615eb043cb9a50193b6 *man/revcode.Rd
