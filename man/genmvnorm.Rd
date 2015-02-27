@@ -2,7 +2,7 @@
 \alias{genmvnorm}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-genmvnorm
+Genmvnorm
 }
 \description{
 Generates a multivariate normal dataset based on a specified correlation matrix. 
@@ -32,7 +32,7 @@ For creating synthetic datasets. Based on the SAS chapter by Fan et al. (2002).
 
 \references{Based on:
 
-Fan, X., Sivo, S., & Keenan, S. (2002). SAS for Monte Carlo studies: A guide for quantitative researchers. SAS Institute.
+Fan, X., Felsovalyi, A., Sivo, S., & Keenan, S. (2002). SAS for Monte Carlo studies: A guide for quantitative researchers. SAS Institute.
 }
 \author{
 Francis Huang

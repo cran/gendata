@@ -3,7 +3,7 @@
 \alias{gendata}
 \docType{package}
 \title{
-Generate synthetic datasets
+Generate Synthetic Datasets
 }
 \description{
 Create synthetic datasets based on a correlation table. Additional functions can be used to rescale, transform, and reverse code variables.
@@ -12,8 +12,8 @@ Create synthetic datasets based on a correlation table. Additional functions can
 \tabular{ll}{
 Package: \tab gendata\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-05-07\cr
+Version: \tab 1.1\cr
+Date: \tab 2012-02-27\cr
 License: \tab GPL-3\cr
 }
 
@@ -33,7 +33,7 @@ Maintainer: Francis Huang <flh3@hotmail.com>
 }
 \references{
 
-Fan, X., Sivo, S., & Keenan, S. (2002). SAS for Monte Carlo studies: A guide for quantitative researchers. Sas Institute.
+Fan, X., Felsovalyi, A., Sivo, S., & Keenan, S. (2002). SAS for Monte Carlo studies: A guide for quantitative researchers. SAS Institute.
 }
 
 \keyword{ package }

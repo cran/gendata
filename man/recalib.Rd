@@ -2,7 +2,7 @@
 \alias{recalib}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Recalibrate (rescale) variables
+Recalibrate (rescale) Variables
 }
 \description{
 Rescale variables (one at a time) to have a new minimum and maximum value.

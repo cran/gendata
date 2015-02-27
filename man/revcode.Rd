@@ -2,7 +2,7 @@
 \alias{revcode}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Reverse coding variables
+Reverse Coding Variables
 }
 \description{
 Reverse codes variables
