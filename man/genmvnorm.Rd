@@ -8,7 +8,7 @@ Genmvnorm
 Generates a multivariate normal dataset based on a specified correlation matrix. 
 }
 \usage{
-genmvnorm(cor, k, n, seed = F)
+genmvnorm(cor, k, n, seed = FALSE)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
